@@ -1,0 +1,20 @@
+git config --global user.name "preetampatil890-cmd"
+git config --global user.email "preetampatil890@gmail.com"
+
+git init
+
+Create new file
+git add .
+git commit -m "New Commit"
+git push origin master/main
+
+Branching
+
+git checkout -b feature
+
+create file 2
+
+git add .
+git commit -m "File2"
+git push origin feature
+
